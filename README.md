@@ -1,6 +1,4 @@
 <img width="1911" height="1062" alt="Screenshot 2026-06-07 190336" src="https://github.com/user-attachments/assets/badf790d-1e2a-4160-841d-d457954b132a" />
-<img width="1905" height="1055" alt="Screenshot 2026-06-07 191505" src="https://github.com/user-attachments/assets/968d689b-4ae2-456b-a699-a0fe0814626a" />
-
 
 
 
@@ -10,7 +8,9 @@ A simple and interactive Furniture Shopping Website built using **HTML, CSS, and
 
 ## 📸 Preview
 
-<img width="100%" alt="Modern Furniture Shop" src="screenshot.png">
+<img width="1905" height="1055" alt="Screenshot 2026-06-07 191505" src="https://github.com/user-attachments/assets/968d689b-4ae2-456b-a699-a0fe0814626a" />
+
+
 
 ## 🚀 Features
 
