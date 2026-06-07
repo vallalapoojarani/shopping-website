@@ -4,8 +4,6 @@
 
 
 
-For GitHub, use a professional README like this:
-
 # 🪑 Modern Furniture Shop
 
 A simple and interactive Furniture Shopping Website built using **HTML, CSS, and JavaScript**. The application allows users to browse furniture products, add items to a shopping cart, manage quantities, and view dynamically calculated order totals.
